@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Balls Out",
+  "base_artist": "¥ellow Bucks",
+  "createdAt": "2025-12-09T14:42:49.664923Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Balls Out",
+      "artist": "Bloodhound Gang",
+      "has_synced": true,
+      "path": "select/01_Balls_Out_Bloodhound_Gang.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Balls Out",
+      "artist": "The Bloodhound Gang",
+      "has_synced": true,
+      "path": "select/02_Balls_Out_The_Bloodhound_Gang.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Balls Out - Album Version (Edited)",
+      "artist": "Bloodhound Gang",
+      "has_synced": false,
+      "path": "select/03_Balls_Out_-_Album_Version_(Edited)_Bloodhound_Gang.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Balls Out (Album Version (Edited))",
+      "artist": "The Bloodhound Gang",
+      "has_synced": false,
+      "path": "select/04_Balls_Out_(Album_Version_(Edited))_The_Bloodhound_Gang.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Balls Out [Explicit]",
+      "artist": "The Bloodhound Gang",
+      "has_synced": true,
+      "path": "select/05_Balls_Out_[Explicit]_The_Bloodhound_Gang.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Balls Out",
+      "artist": "Bloodhound Gang",
+      "has_synced": true,
+      "path": "select/06_Balls_Out_Bloodhound_Gang.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "BALLS OUT FREESTYLE",
+      "artist": "MC Virgins",
+      "has_synced": false,
+      "path": "select/07_BALLS_OUT_FREESTYLE_MC_Virgins.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Balls Out (Album Version)",
+      "artist": "Bloodhound Gang",
+      "has_synced": false,
+      "path": "select/08_Balls_Out_(Album_Version)_Bloodhound_Gang.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Balls Out (Album Version Edited)",
+      "artist": "Bloodhound Gang",
+      "has_synced": false,
+      "path": "select/09_Balls_Out_(Album_Version_Edited)_Bloodhound_Gang.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Balls Out",
+      "artist": "¥ellow Bucks",
+      "has_synced": true,
+      "path": "select/10_Balls_Out_¥ellow_Bucks.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Balls Out",
+      "artist": "Bloodhound Gang",
+      "has_synced": true,
+      "path": "select/11_Balls_Out_Bloodhound_Gang.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "02 Balls Out",
+      "artist": "The Bloodhound Gang",
+      "has_synced": true,
+      "path": "select/12_02_Balls_Out_The_Bloodhound_Gang.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Balls Out",
+      "artist": "Bloodhound Gang",
+      "has_synced": true,
+      "path": "select/13_Balls_Out_Bloodhound_Gang.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Balls Out (feat. MIYACHI & Shurkn Pap)",
+      "artist": "¥ellow Bucks",
+      "has_synced": true,
+      "path": "select/14_Balls_Out_(feat._MIYACHI_&_Shurkn_Pap)_¥ellow_Bucks.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Balls Out",
+      "artist": "¥ellow Bucks, MIYACHI, Shurkn Pap",
+      "has_synced": false,
+      "path": "select/pl_01_Balls_Out_¥ellow_Bucks,_MIYACHI,_Shurkn_Pap.txt"
+    }
+  ]
+}
